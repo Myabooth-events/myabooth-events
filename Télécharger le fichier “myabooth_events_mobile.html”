@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Location de photobooth, 360 booth, miroir booth, livre d’or audio-vidéo et château gonflable au Mans et dans la Sarthe.">
+    <meta name="keywords" content="photobooth Le Mans, 360 booth Sarthe, miroir booth, livre d'or audio, château gonflable location, Myabooth Events">
+    <title>Myabooth Events - Location Animation Événementielle</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background: #fefefe; color: #333; }
+        header, section, footer { padding: 20px; }
+        header { background: #222; color: #fff; text-align: center; }
+        header h1 { margin: 10px 0; }
+        .logo { max-width: 100px; }
+        section h2 { color: #444; }
+        .service { border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px; padding: 15px; background: #fff; }
+        .service img { width: 100%; max-width: 300px; border-radius: 5px; }
+        .tarifs { font-weight: bold; margin-top: 10px; }
+        footer { background: #222; color: #fff; text-align: center; font-size: 14px; }
+        .contact { background: #f5f5f5; padding: 15px; border-radius: 8px; }
+        .contact p { margin: 5px 0; }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="logo.png" alt="Logo Myabooth Events" class="logo">
+    <h1>Myabooth Events</h1>
+    <p>Des souvenirs inoubliables pour vos événements 🎉</p>
+</header>
+
+<section>
+    <h2>Nos Services</h2>
+
+    <div class="service">
+        <h3>📸 Photobooth</h3>
+        <img src="photobooth.jpg" alt="Photobooth">
+        <p>Photos digitales illimitées. Choisissez votre formule selon le nombre de tirages.</p>
+        <p class="tarifs">À partir de 150€</p>
+    </div>
+
+    <div class="service">
+        <h3>🌀 360 Video Booth</h3>
+        <img src="360.jpg" alt="360 Booth">
+        <p>Plateforme vidéo immersive avec iPhone 14, iPad, éclairage LED.</p>
+        <p class="tarifs">250€</p>
+    </div>
+
+    <div class="service">
+        <h3>🪞 Miroir Booth</h3>
+        <img src="miroir.jpg" alt="Miroir Booth">
+        <p>Expérience interactive et élégante pour vos invités.</p>
+        <p class="tarifs">À partir de 200€</p>
+    </div>
+
+    <div class="service">
+        <h3>📞 Livre d’or Audio-Vidéo</h3>
+        <img src="livreor.jpg" alt="Livre d’or Audio-Vidéo">
+        <p>Enregistrez des messages vidéo ou audio inoubliables avec un téléphone rétro.</p>
+        <p class="tarifs">80€</p>
+    </div>
+
+    <div class="service">
+        <h3>🏰 Château Gonflable</h3>
+        <img src="chateau.jpg" alt="Château gonflable">
+        <p>Amusement garanti pour les enfants de 3 à 10 ans avec toboggan, mur d'escalade, balles, paniers, etc.</p>
+        <p class="tarifs">Dès 40€</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>📞 07 69 70 38 34</p>
+    <p>📸 Instagram : @myabooth_events</p>
+    <p>📍 Basé au Mans – déplacements dans la Sarthe (frais km au-delà de 20 km)</p>
+</section>
+
+<footer>
+    © 2025 Myabooth Events – Tous droits réservés
+</footer>
+
+</body>
+</html>
